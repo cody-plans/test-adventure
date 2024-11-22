@@ -1,4 +1,3 @@
-#!/bin/bash
+This is my repository
 
-echo "Hello, World!"
-echo "add line 2"
+This is line 2.
